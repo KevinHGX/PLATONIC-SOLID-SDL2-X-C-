@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 20px> PLATONIC_SOLID_SDL2_X_CPP
 Visualizacion "Platonic Solid Models OBJ"  creado en lenguaje C++, usando la libreria SDL2
 
-# <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px> Como Construirlo?
+# <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px> Requisitos
 
 - Como primer punto sera necesario que verifiques tener la version C++14, si no sabes como, no te preocupes, puedes consultar el siguiente enlace para conocerlo: https://www.delftstack.com/es/howto/cpp/check-cpp-version/
   (Cualquier otra version de C++, no funcionara, Una disculpa de antemano ). Mas adelante se actualizara el programa para ser ejecutado en versiones mas actuales.
@@ -43,7 +43,6 @@ Visualizacion "Platonic Solid Models OBJ"  creado en lenguaje C++, usando la lib
 En el video presentamos diferentes "cuerpos" cada uno de ellos pueden cambiarse desde el archivo "/src/Main.cpp",  pasando como tercer parametro el nombre de los modelos .obj, alojados en /res/models
 
               ***Framework Solid(800,500,"Cube","KevinHGX"); <=> Framework Solid(800,500,"Octahedron","KevinHGX");
-
 
 
 
