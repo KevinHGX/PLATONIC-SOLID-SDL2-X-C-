@@ -44,7 +44,7 @@ En el video presentamos diferentes "cuerpos" cada uno de ellos pueden cambiarse 
 
               ***Framework Solid(800,500,"Cube","KevinHGX"); <=> Framework Solid(800,500,"Octahedron","KevinHGX");
 
-
+Link Video: https://youtu.be/t1ES_V6xjzw?si=Kv8Ugli0vZs3qy1V
 
 
 Creator: KevinHGX
